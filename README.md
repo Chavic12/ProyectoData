@@ -17,34 +17,22 @@ Para el proceso de extracción de datos se hizo uso de varias herramientas y un 
 
 
 ```markdown
-<style>
-    /* Estilo CSS para cambiar el color de los títulos */
-    #, ##, h3, h4, h5, h6 {
-        color: blue; /* Cambia este valor al color deseado */
-    }
-</style>
 
-```
-
-
-```markdown
-
-Este formato creará una lista con viñetas donde cada elemento de la lista (en este caso, lenguajes de programación) está seguido por una descripción en la línea siguiente. Asegúrate de dejar una línea en blanco después de cada descripción para que Markdown interprete correctamente el formato de la lista.
-## Exploración con Beautiful Soup
+* Exploración con Beautiful Soup
 
 Inicialmente se utilizó la biblioteca en Python para explorar la estructura HTML de las paginas del sitio WEb UTPL para cada carrera, lo que permitió identificar los elementos y atributos relevantes que contenían la información deseada.
    
-##### Desarrollo de arañas Scrapy Personalizadas
+* Desarrollo de arañas Scrapy Personalizadas
 
 Luego de comprender la estructura HTML de cada página, se procedio a desarrollar arañas Scrapy personalizadas para cada modalidad.
    
 Debido a que cada integrante utilizó distintas herramientas para scrapear, se procedio a combinar y unificar el código en una única araña Scrapy con BeatifulSoup.
    
-##### Guardado de Datos en un Archivo CSV
+* Guardado de Datos en un Archivo CSV
 
 Una vez que los datos son extraídos, procesados y estructurados, fueron guardados en un archivo CSV para su fácil manejo y análisis posterior.
 
-##### Python
+* Python
 
 Este lenguaje de programación proporcionó la flexibilidad necesaria para adaptar el proceso según nuestros requerimientos.
 ```   
