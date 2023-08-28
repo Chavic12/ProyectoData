@@ -5,7 +5,7 @@
    
 En el marco del presente proyecto, se llevó a cabo la extracción de datos informativos de cada carrera ofrecida por la Universidad Técnica Particular de Loja.
 
-Utilizando la poderoza herramienta de **Beautiful Soup**, con la cual se exploró [url](https://www.utpl.edu.ec)  con el propósito de recopilar información relevante para un análisis posterior.
+Utilizando la poderoza herramienta de **Beautiful Soup**, con la cual se exploró la URL [https://www.utpl.edu.ec](https://www.utpl.edu.ec)  con el propósito de recopilar información relevante para un análisis posterior.
 
 La información contiene una variedad de campos, incluidos nombres de la carrera, número de ciclos, título, modalidad,detalles de la carrera, materias, ciclo, campo ocupacional entre otros.
 
