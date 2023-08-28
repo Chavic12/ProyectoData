@@ -17,6 +17,20 @@ Para el proceso de extracción de datos se hizo uso de varias herramientas y un 
 
 
 ```markdown
+<style>
+    /* Estilo CSS para cambiar el color de los títulos */
+    h1, h2, h3, h4, h5, h6 {
+        color: blue; /* Cambia este valor al color deseado */
+    }
+</style>
+
+# Título de nivel 1
+## Título de nivel 2
+### Título de nivel 3
+```
+
+
+```markdown
 
 Este formato creará una lista con viñetas donde cada elemento de la lista (en este caso, lenguajes de programación) está seguido por una descripción en la línea siguiente. Asegúrate de dejar una línea en blanco después de cada descripción para que Markdown interprete correctamente el formato de la lista.
 * **Exploración con Beautiful Soup**
