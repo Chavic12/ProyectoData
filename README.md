@@ -13,8 +13,12 @@ El desafío enfrentado en el proceso de scrapear los datos se pudó observar la 
 
 3. **Herramientas utilizadas**
    
-Para el proceso de extracci´ñon de datos se hizo uso de varias herramientas y un proceso especifico para garantizar una recopilación precisa y estructurada de la información.
+Para el proceso de extracción de datos se hizo uso de varias herramientas y un proceso especifico para garantizar una recopilación precisa y estructurada de la información.
 
+
+```markdown
+
+Este formato creará una lista con viñetas donde cada elemento de la lista (en este caso, lenguajes de programación) está seguido por una descripción en la línea siguiente. Asegúrate de dejar una línea en blanco después de cada descripción para que Markdown interprete correctamente el formato de la lista.
 * **Exploración con Beautiful Soup**
 
 Inicialmente se utilizó la biblioteca en Python para explorar la estructura HTML de las paginas del sitio WEb UTPL para cada carrera, lo que permitió identificar los elementos y atributos relevantes que contenían la información deseada.
@@ -32,7 +36,7 @@ Una vez que los datos son extraídos, procesados y estructurados, fueron guardad
 * **Python**
 
 Este lenguaje de programación proporcionó la flexibilidad necesaria para adaptar el proceso según nuestros requerimientos.
-   
+```   
 5. **Datos extraídos**
 6. **Resultados y conclusiones**
 7. **Trabajo a futuro**
