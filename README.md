@@ -16,21 +16,22 @@ El desafío enfrentado en el proceso de scrapear los datos se pudó observar la 
 Para el proceso de extracci´ñon de datos se hizo uso de varias herramientas y un proceso especifico para garantizar una recopilación precisa y estructurada de la información.
 
 * **Exploración con Beautiful Soup**
-   Inicialmente se utilizó la biblioteca en Python para explorar la estructura HTML de las paginas del sitio WEb UTPL para cada carrera, lo que permitió identificar los elementos y atributos relevantes que contenían la información deseada.
+
+Inicialmente se utilizó la biblioteca en Python para explorar la estructura HTML de las paginas del sitio WEb UTPL para cada carrera, lo que permitió identificar los elementos y atributos relevantes que contenían la información deseada.
    
 * **Desarrollo de arañas Scrapy Personalizadas**
 
-   Luego de comprender la estructura HTML de cada página, se procedio a desarrollar arañas Scrapy personalizadas para cada modalidad.
+Luego de comprender la estructura HTML de cada página, se procedio a desarrollar arañas Scrapy personalizadas para cada modalidad.
    
-   Debido a que cada integrante utilizó distintas herramientas para scrapear, se procedio a combinar y unificar el código en una única araña Scrapy con BeatifulSoup.
+Debido a que cada integrante utilizó distintas herramientas para scrapear, se procedio a combinar y unificar el código en una única araña Scrapy con BeatifulSoup.
    
 * **Guardado de Datos en un Archivo CSV**
 
-   Una vez que los datos son extraídos, procesados y estructurados, fueron guardados en un archivo CSV para su fácil manejo y análisis posterior.
+Una vez que los datos son extraídos, procesados y estructurados, fueron guardados en un archivo CSV para su fácil manejo y análisis posterior.
 
 * **Python**
 
-   Este lenguaje de programación proporcionó la flexibilidad necesaria para adaptar el proceso según nuestros requerimientos.
+Este lenguaje de programación proporcionó la flexibilidad necesaria para adaptar el proceso según nuestros requerimientos.
    
 5. **Datos extraídos**
 6. **Resultados y conclusiones**
